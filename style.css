@@ -1,0 +1,41 @@
+body{
+
+min-height: 60vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background: url(latest-work/header-bg.png );
+background-size: 180vh;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:cover;
+width: 270vh;
+text-align: left;
+
+
+
+}
+.Hello{
+    color: black;
+    width: 30vh;
+  ;
+    padding-left: 0vh;
+}
+#content{
+    
+    height: 200vh;
+    width: 70%;
+}
+.name{
+    color: rgb(180, 194, 49);
+}
+.button{
+    color: rgb(0, 230, 247);
+    background-color: rgb(58, 21, 192);
+}
+img {
+    width: 36%;
+    height: auto;
+    padding-left: 60vh;
+   
+  }
